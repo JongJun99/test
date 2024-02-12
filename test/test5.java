@@ -34,7 +34,5 @@ public class test5 {
         }
         System.out.println(array);
 
-
-
     }
 }
